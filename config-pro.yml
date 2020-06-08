@@ -1,6 +1,2 @@
-name:
- Ling
-age:
- 21
-address:
- shanghai
+config:
+ info: "boofie:springcloud-config/config-pro.yml version=2.1.1"
