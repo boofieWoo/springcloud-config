@@ -1,6 +1,2 @@
-name:
- Woo
-age:
- 20
-address:
- beijing
+config:
+ info: "boofie:springcloud-config/config-test.yml version=3.3.7"
