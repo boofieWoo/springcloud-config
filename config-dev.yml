@@ -1,6 +1,2 @@
-name:
- Boofie
-age:
- 20
-address:
- shenzhen
+config:
+ info: "boofie:springcloud-config/config-dev.yml version=1.0.1"
